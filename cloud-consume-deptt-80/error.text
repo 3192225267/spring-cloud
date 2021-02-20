@@ -1,0 +1,1 @@
+ No instances available for SPRINGCLOUD-PROVIDER-DEPT : @RibbonClient注解的name属性改成小写的形式，name=myspringcloudtest-provider-dept

@@ -1,0 +1,15 @@
+# Project exclude paths
+/cloud-api/target/
+/cloud-config-3344/target/
+/cloud-config-client-3355/target/
+/cloud-consume-dept-feign/target/
+/cloud-consume-dept-feign-dashbard/target/
+/cloud-consume-deptt-80/target/
+/cloud-dept-zuul-9527/target/
+/cloud-eureka-dept-7001/target/
+/cloud-eureka-dept-7002/target/
+/cloud-eureka-dept-7003/target/
+/cloud-provider-dept-8001/target/
+/cloud-provider-dept-8001-hystrix/target/
+/cloud-provider-dept-8002/target/
+/cloud-provider-dept-8003/target/

@@ -1,0 +1,11 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: springcloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/liu_zhen_he/springcloud-dashbard-config.git  # 这里的连接方式是http，不是ssh
+# 通过config-server 可以连接到gitee，访问到其中的资源和配置
